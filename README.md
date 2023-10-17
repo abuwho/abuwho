@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abu! 👋 </h1>
 
 ## About me: 
-- 🔭 I’m currently working on [FlexScript Compiler](https://github.com/abuwho/FlexScript-Compiler).
+- 🔭 Check out [FlexScript](https://github.com/abuwho/FlexScript).
 - 🌱 I’m currently learning Spring Boot. 
 - 👯 I’m looking to collaborate on web, mobile applications, and open-source projects. 
 
