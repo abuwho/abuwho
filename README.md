@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abu! 👋 </h1>
 
 ## About me: 
-- 🔭 Check out [spring-blog](https://github.com/abuwho/spring-blog)
+- 🔭 Check out [LearnQuest](https://github.com/abuwho/LearnQuest)
 - 🌱 I’m currently learning Spring Boot. 
 - 👯 I’m looking to collaborate on web, mobile applications, and open-source projects. 
 
