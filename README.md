@@ -2,7 +2,7 @@
 
 ## About me: 
 - 🔭 Check out [LearnQuest](https://github.com/abuwho/LearnQuest)
-- 🌱 I’m currently learning Spring Boot. 
+- 🌱 I’m currently learning Spring Boot and Vue.js. 
 - 👯 I’m looking to collaborate on web, mobile applications, and open-source projects. 
 
 ![Profile views](https://komarev.com/ghpvc/?username=abuwho&color=green) 
