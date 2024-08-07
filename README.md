@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abu! 👋 </h1>
 
 ## About me: 
-- 🔭 Check out [sok.fm](https://sok.fm).
+- 🔭 Check out [tek.fm](https://tek.fm).
 - 🌱 I’m currently learning Spring Boot and Vue.js. 
 - 👯 I’m looking to collaborate on web, mobile applications, and open-source projects. 
 
