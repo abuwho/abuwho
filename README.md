@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abu! 👋 </h1>
 
 ## About me: 
-- 🔭 Check out projects I have worked on:
+- 🔭 Check out some projects I have worked on:
   - [tek.fm](https://tek.fm)
   - [widget.fm](https://widget.fm)
   - [socium.fm](https://socium.fm)
