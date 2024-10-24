@@ -3,7 +3,7 @@
 ## About me: 
 - 🔭 Check out some projects I have worked on:
   - [tek.fm](https://tek.fm)
-  - [cdn.widget.fm](https://cdn.widget.fm/widgetfm-sdk.umd.cjs)
+  - [widget.fm - an SDK](https://cdn.widget.fm/widgetfm-sdk.umd.cjs)
   - [socium.fm](https://socium.fm)
   - [desigram.ru](https://desigram.ru)
 - 🌱 I’m currently learning Spring Boot and Vue.js. 
