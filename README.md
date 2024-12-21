@@ -7,6 +7,7 @@
   - [socium.fm](https://socium.fm)
   - [desigram.ru](https://desigram.ru)
   - [tokengram.ru](https://tokengram.ru)
+  - [btc-card.com](https://wallet-btc-card.com)
 - 🌱 I’m currently learning Spring Boot and Vue.js. 
 - 👯 I’m looking to collaborate on web, mobile applications, and open-source projects. 
 
